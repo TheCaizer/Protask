@@ -1,0 +1,15 @@
+.findCon {
+    width: 100%;
+    justify-content: center;
+    font-family: var(--font-family);
+  
+}
+
+.findCon h2 {
+    font-size: 24px;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    padding: 6px;
+    text-align: left;
+    color:azure;
+}

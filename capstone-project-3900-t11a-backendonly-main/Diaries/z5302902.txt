@@ -1,0 +1,22 @@
+Week 1:
+Group formation in the lab time. Discuss and determine the topic for the project.
+Week 2:
+We start discussing user storis and start working on the proposal document together. We 
+also split the work for the project. I will do the backend part.
+Week 3:
+Keep working on the proposal due in week 4. I draw the story board of the user stories.
+Week 4:
+Working on the sprint 1. I am doing a part of backend functions in backend/auth.py.
+Week 5:
+Progressive demo on Tuesday's lab. For the next sprint, we discuss to do the task implemention first.
+Week 6:
+Working on task implementations.
+Week 7:
+Woking on the project part for our sprint 2 user stories. I works on the creating and managing
+project for the backend.
+Week 8:
+Progressive demo on Tuesday's lab. After the demo, we start working on the first of sprint 3.
+I am donig the part of changing and adding profile picture (We thought it may be complicated so 
+I only got one functionality to do this week)
+Week 9:
+Working on the rest of part for the project. (task.py and project.py)

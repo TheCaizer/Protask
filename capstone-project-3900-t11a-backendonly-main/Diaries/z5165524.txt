@@ -1,0 +1,24 @@
+Week 1:
+
+I formed a group within my tutorial session and collectively we decided upon hte name "BackendOnly". We decided to go for the task managmement systme as our project
+I got set up on Jira and we discussed what novel functionality we could add.
+Week 2:
+This week we finalised how we would want our systme to function and fleshed out the new functionality that we are adding.
+Week 3:
+This week we finished up writting the proposal, delegating the work between each member evenly. We also discussed what each member would be working on. 
+This allows each member to start working on coding the project and owrking towards the first milerstone.
+Week 4:
+We continued writting the code. I was assigned with working on the database and designed the friend and user system in preparation for the first milestone
+We had a meeting to merge the front end and back end.
+Week 5:
+We did the demo for the first milestone and split work for the next milestone
+Week 6:
+worked on desiging databse system and functions for tasks and notifications
+Week 7:
+same as week 6
+Week 8:
+Finished sprint 2 and planned for for next sprint. 
+Week 9:
+Finished off all work to do with database system including projects, skills e.t.c
+Week 10:
+Did the final merge of code and tested through common edge cases together. Writting up the report

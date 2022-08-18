@@ -1,0 +1,52 @@
+.taskList {
+    width: 100%;
+    justify-content: center;
+    font-family: var(--font-family);
+
+    
+}
+
+.taskList h2 {
+    font-size: 48px;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    text-align: center;
+    color:azure;
+}
+
+.taskList h3 {
+    font-size: 28px;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    text-align: center;
+    color:azure;
+}
+
+.taskList .assignSearchBar {
+    width: 100%;
+    margin-left: 10000px;
+}
+
+.taskList .NotStarted h3 {
+    color: cornflowerblue;
+    font-weight: 500;
+    font-size: 32px;
+}
+
+.taskList .InProgress h3 {
+    color: gold;
+    font-weight: 500;
+    font-size: 32px;
+}
+
+.taskList .Complete h3 {
+    color:aquamarine;
+    font-weight: 500;
+    font-size: 32px;
+}
+
+.taskList .Blocked h3 {
+    color: crimson;
+    font-weight: 500;
+    font-size: 32px;
+}

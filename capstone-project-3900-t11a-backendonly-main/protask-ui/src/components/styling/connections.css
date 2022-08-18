@@ -1,0 +1,15 @@
+.connections {
+    font-family: var(--font-family);
+}
+
+.connections h2 {
+    padding: 6px;
+    font-size: 32px;
+    color: azure;
+}
+
+.connections .addBtn {
+    padding: 6px;
+    margin: auto;
+    margin-bottom: 2em;
+}

@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Jost');
+
+:root {
+    --font-family: 'Jost', sans-serif;
+
+    --gradient-text: linear-gradient(75deg, #BC7CE6 2%, #6ee5e6 98%);
+    --gradient-bar: linear-gradient(105deg, #BC7CE6 -5%, #6ee5e6 91%);
+
+    --color-bg: #141411;
+    --color-footer : #031B34;
+    --color-text: #c0eeee;
+    --color-subtext: #db5d41;
+}

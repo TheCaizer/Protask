@@ -1,0 +1,24 @@
+Week 1:
+Formed the groups within the tutorial and then decided on the projects that we wanted to do together (Task Management System)
+and then we decided what novel functionalities we wanted to added to the projects. Did all the setups such as decide Julian as the
+Scrum Master and then we joined the Jira.
+Week 2:
+We joined the github group and then after that we just started on the proposal by spliting up some sections and then coming up 
+with some user stories for the project. We then decided what languages and technologies we were going to use for the project.
+Week 3:
+We continued discussing the proposal and started with the coding, I started on the backend of the system with the authentication. In the
+proposal I added acceptance criteria as well as discuss the rest of the proposal format
+Week 4:
+continued writing the code of the app and then with the team tried to merge the frontend and backend
+Week 5:
+did the demo and then discussed with the team what to do in next sprint started the sprint
+Week 6:
+flexi week so worked on the app of sprint 2
+Week 7:
+still working on the sprint 2 with task and started on the project side
+Week 8:
+Finsihed off the sprinits I had to do and presented the demo
+Week 9:
+Started final sprinit and finsihed it off and any other bugs we had
+Week 10:
+Did the final dem0 and finished up the report for the assignment and anything else we needed to fix and submit

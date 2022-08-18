@@ -1,0 +1,153 @@
+.authForm {
+    -webkit-animation: fade-in-top 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+    animation: fade-in-top 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+    height: 55em;
+    width: 30em;
+    background-color: rgba(255,255,255,0.13);
+    position: relative;
+    transform: translate(-50%,-50%);
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    border: 2px solid rgba(255,255,255,0.1);
+    box-shadow: 0 0 40px rgba(8,7,16,0.6);
+    padding: 30px 60px;
+    z-index: 11;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: var(--font-family);
+}
+
+.authForm h2 {
+    font-size: 48px;
+    font-weight: 400;
+    color: #50f5e8;
+    margin-bottom: 10px;
+}
+
+.authForm Label {
+    display: block;
+    margin-top: 1em;
+    font-size: 18px;
+    font-weight: 500;
+    color: #edf3f3;
+}
+
+.authForm input {
+    display: block;
+    height: 40px;
+    width: 100%;
+    background-color: rgba(223, 226, 231, 0.07);
+    color: #edf3f3;
+    border-radius: 3px;
+    padding: 0 5px;
+    margin-top: 8px;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.authForm__inner {
+    margin-top: 1em;
+    
+}
+
+.authForm__button {
+    margin-top: 50px;
+    margin-bottom: 80px;
+    width: 100%;
+    background-color: #ffffff;
+    color: #080710;
+    padding: 15px 0px;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 5px;
+    cursor: pointer;
+    z-index: 10;
+
+}
+
+.regBox {
+    -webkit-animation: fade-in-top 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+    animation: fade-in-top 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5vh;
+    width: 30em;
+    height: 55em;
+    background-color: #161515;
+    box-shadow: #50f5e8 0px 5px 15px;
+    z-index: 9;
+    border-radius: 10px;
+}
+
+.forgotPw {
+    text-align: center;
+}
+
+.loginBox {
+    -webkit-animation: fade-in-top 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+    animation: fade-in-top 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30em;
+    height: 40em;
+    margin-top: 80px;
+    background-color: #2b2a2a;
+    box-shadow: #50f5e8 0px 5px 15px;
+    z-index: 9;
+    border-radius: 10px;
+}
+
+.loginBox .authForm {
+  -webkit-animation: fade-in-top 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+    animation: fade-in-top 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+    height: 40em;
+    width: 30em;
+    background-color: rgba(255,255,255,0.13);
+    position: absolute;
+    transform: translate(-50%,-50%);
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    border: 2px solid rgba(255,255,255,0.1);
+    box-shadow: 0 0 40px rgba(8,7,16,0.6);
+    padding: 80px 60px;  
+    z-index: 10;
+}
+
+.fade-in-top {
+	-webkit-animation: fade-in-top 0.6s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+	        animation: fade-in-top 0.6s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+}
+
+/**
+ * ----------------------------------------
+ * animation fade-in-top
+ * ----------------------------------------
+ */
+ @-webkit-keyframes fade-in-top {
+    0% {
+      -webkit-transform: translateY(-50px);
+              transform: translateY(-50px);
+      opacity: 0;
+    }
+    100% {
+      -webkit-transform: translateY(0);
+              transform: translateY(0);
+      opacity: 1;
+    }
+  }
+  @keyframes fade-in-top {
+    0% {
+      -webkit-transform: translateY(-50px);
+              transform: translateY(-50px);
+      opacity: 0;
+    }
+    100% {
+      -webkit-transform: translateY(0);
+              transform: translateY(0);
+      opacity: 1;
+    }
+  }
+
